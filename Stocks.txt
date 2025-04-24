@@ -1,0 +1,4 @@
+AAPL
+MFST
+TSLA
+GOOG
