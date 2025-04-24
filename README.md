@@ -90,9 +90,10 @@ While no explicit metric (like RMSE or R²) is shown in the app, the LSTM model 
 ---
 
 ## 📌 How to Run
-Clone the repository: Clone the project repository to your local machine using Git (or download as ZIP):
+1. Clone the repository: Clone the project repository to your local machine using Git (or download as ZIP):
 git clone <repo_url>
-Set up a virtual environment: Open a terminal and navigate to the project folder. Then create and activate a virtual environment:
+
+2. Set up a virtual environment: Open a terminal and navigate to the project folder. Then create and activate a virtual environment:
 
 For Windows:
 python -m venv venv
@@ -102,18 +103,17 @@ For macOS/Linux:
 python3 -m venv venv
 source venv/bin/activate
 
-Install required dependencies: Once your virtual environment is active, install the required packages using the requirements.txt file:
+3. Install required dependencies: Once your virtual environment is active, install the required packages using the requirements.txt file:
 pip install -r requirements.txt
 
-Run the Streamlit app: To start the Streamlit web app, run the following command in your terminal:
+4. Run the Streamlit app: To start the Streamlit web app, run the following command in your terminal:
 streamlit run app.py
 
-Access the web app: After running the command, Streamlit will automatically open the app in your default web browser. If not, you can manually open the following URL in your browser:
+5. Access the web app: After running the command, Streamlit will automatically open the app in your default web browser. If not, you can manually open the following URL in your browser:
 http://localhost:8501
 
-Enter a Stock Ticker: In the web interface, you can enter any stock ticker (e.g., AAPL) into the search bar. The app will fetch and display:
+6. Enter a Stock Ticker: In the web interface, you can enter any stock ticker (e.g., AAPL) into the search bar. The app will fetch and display:
 Historical stock data (from 2010 to 2023).
-
 Stock price predictions for the next 10 days.
 
 
