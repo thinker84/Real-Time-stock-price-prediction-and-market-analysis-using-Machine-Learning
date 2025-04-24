@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ae70ea31-4f19-4ac7-bb49-4de16321117e)
+
 # 📈 Real-Time Stock Price Prediction and Market Analysis using Machine Learning
 
 This project is a real-time stock market prediction and analysis web app built using Python, Keras, and Streamlit. It predicts future stock prices using a deep learning model trained on historical stock data fetched from Stooq.
@@ -6,13 +6,28 @@ This project is a real-time stock market prediction and analysis web app built u
 ---
 
 ## 🧩 Problem Statement
-
 - Stock price movements are highly volatile and influenced by complex patterns, making accurate forecasting challenging for investors and analysts.  
 - Traditional forecasting methods often fail to capture the non-linear trends and time-dependent nature of stock market data.  
 - There is a need for an intelligent, real-time system that can predict future stock prices using deep learning techniques, based on historical trends and 
   patterns.  
 - This project aims to build a web-based application that leverages an LSTM model to forecast stock prices and visualize trends, helping users make more informed 
   decisions.
+
+---
+
+## 🧾 Existing System
+- Uses statistical models, technical indicators, and fundamental analysis.
+- Limited in handling complex patterns and time-based dependencies in stock data.
+- Not well-suited for real-time market analysis.
+- Struggles to adapt to fast-changing market conditions
+
+---
+
+## 💡 Proposed System
+- A machine learning-based approach using an LSTM model trained on historical stock prices.
+- Utilizes free data from Stooq for accessibility.
+- Predicts future prices and visualizes them with moving averages and comparison plots.
+- Fully interactive and user-friendly interface built with Streamlit.
 
 ---
 
@@ -23,6 +38,9 @@ This project is a real-time stock market prediction and analysis web app built u
 - Model Training
 - Stock Price Prediction
 - Visualization and Reporting
+
+---
+
 ## 🔍 Key Features
 - 📊 Fetches historical stock data from 2010–2023 for any ticker (default: AAPL) using `pandas_datareader`.
 - 📉 Visualizes stock price trends with moving averages (100MA & 200MA).
