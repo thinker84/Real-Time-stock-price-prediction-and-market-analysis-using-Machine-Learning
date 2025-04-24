@@ -37,12 +37,12 @@ This project is a real-time stock market prediction and analysis web app built u
 ---
 
 ## Methodology
-- Data Collection
-- Data Preprocessing
-- Feature Engineering
-- Model Training
-- Stock Price Prediction
-- Visualization and Reporting
+1. Data Collection
+2. Data Preprocessing
+3. Feature Engineering
+4. Model Training
+5. Stock Price Prediction
+6. Visualization and Reporting
 
 ---
 
