@@ -5,6 +5,11 @@ This project is a real-time stock market prediction and analysis web app built u
 
 ---
 
+## 🎥 Demo
+📽️ [Click here to watch the demo video](https://drive.google.com/file/d/1yYKk7665jM0UdhGtIZjxNVEToDGnK8K0/view?usp=drive_link)
+
+---
+
 ## 🧩 Problem Statement
 - Stock price movements are highly volatile and influenced by complex patterns, making accurate forecasting challenging for investors and analysts.  
 - Traditional forecasting methods often fail to capture the non-linear trends and time-dependent nature of stock market data.  
