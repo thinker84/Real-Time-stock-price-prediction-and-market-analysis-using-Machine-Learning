@@ -5,6 +5,17 @@ This project is a real-time stock market prediction and analysis web app built u
 
 ---
 
+## 🧩 Problem Statement
+
+- Stock price movements are highly volatile and influenced by complex patterns, making accurate forecasting challenging for investors and analysts.  
+- Traditional forecasting methods often fail to capture the non-linear trends and time-dependent nature of stock market data.  
+- There is a need for an intelligent, real-time system that can predict future stock prices using deep learning techniques, based on historical trends and 
+  patterns.  
+- This project aims to build a web-based application that leverages an LSTM model to forecast stock prices and visualize trends, helping users make more informed 
+  decisions.
+
+---
+
 ## 🔍 Key Features
 - 📊 Fetches historical stock data from 2010–2023 for any ticker (default: AAPL) using `pandas_datareader`.
 - 📉 Visualizes stock price trends with moving averages (100MA & 200MA).
