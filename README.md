@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/ae70ea31-4f19-4ac7-bb49-4de16321117e)
 # 📈 Real-Time Stock Price Prediction and Market Analysis using Machine Learning
 
 This project is a real-time stock market prediction and analysis web app built using Python, Keras, and Streamlit. It predicts future stock prices using a deep learning model trained on historical stock data fetched from Stooq.
@@ -16,6 +16,13 @@ This project is a real-time stock market prediction and analysis web app built u
 
 ---
 
+## Methodology
+- Data Collection
+- Data Preprocessing
+- Feature Engineering
+- Model Training
+- Stock Price Prediction
+- Visualization and Reporting
 ## 🔍 Key Features
 - 📊 Fetches historical stock data from 2010–2023 for any ticker (default: AAPL) using `pandas_datareader`.
 - 📉 Visualizes stock price trends with moving averages (100MA & 200MA).
